@@ -11,7 +11,7 @@ import {
   fetchDepartamentos,
   fetchTopCiudades,
   fetchFiltro
-} from './api'
+} from './services/api'
 
 
 function App(){
