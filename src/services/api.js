@@ -1,5 +1,4 @@
-const BASE='http://127.0.0.1:8000'
-
+const BASE = "https://saferoad-api-6z17.onrender.com"
 
 export async function fetchSectores(){
 
